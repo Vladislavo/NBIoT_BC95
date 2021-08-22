@@ -1,0 +1,8 @@
+{
+    "name": "NBIoT_BC95",
+    "keywords": "Communication, Modem",
+    "description": "Quectel BC95 NB-IoT connectivity module",
+    "version": "1.0.0",
+    "frameworks": "*",
+    "platforms": "Arduino"
+  }
